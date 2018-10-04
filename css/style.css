@@ -1,3 +1,4 @@
+
 html {
     height: 100%;
 }
@@ -16,4 +17,32 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+#h{
+    display:flex;
+    justify-content: center;
+    background-color: orange;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+}
+.content{
+    display:flex;
+
+}
+
+#img1{
+    width:400px;
+    height:400px;
+}
+
+.rightPane{
+    display:flex;
+}
+
+#text{
+    width:50%;
 }
